@@ -11,7 +11,7 @@ The goal of this repository is to showcase practical PLC programming skills, ind
 
 ---
 
-## 📑 Projects Included
+## Projects Included
 - **[Alternate Motor Running](Alternate_Motor_Running/README.md)**  
   Alternates two motors using timers and interlocks to balance usage.  
   *Platform: Siemens S7-200 (STEP 7 MicroWIN)*
@@ -38,7 +38,7 @@ The goal of this repository is to showcase practical PLC programming skills, ind
 
 ---
 
-## 🛠 Tools & Platforms
+## Tools & Platforms
 - **PLC Hardware:** Siemens S7-200
 - **Programming Environments:**
   - Siemens STEP 7 MicroWIN V4.0.9.25
@@ -50,7 +50,7 @@ The goal of this repository is to showcase practical PLC programming skills, ind
 
 ---
 
-## 🎯 Applications
+## Applications
 These projects cover a wide range of industrial automation scenarios:
 - Motor control and sequencing
 - Analog-to-digital conversion
@@ -61,7 +61,7 @@ These projects cover a wide range of industrial automation scenarios:
 
 ---
 
-## 📌 Author
+## Author
 Developed by **Yashvi**  
 Focused on **industrial automation, PLC programming, and professional documentation**.  
 Part of a portfolio curated for academic and industry audiences.

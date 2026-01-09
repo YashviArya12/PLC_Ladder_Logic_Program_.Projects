@@ -48,4 +48,4 @@ This project implements an **alternate motor running control system** using Siem
 - Conveyor systems with dual motor setups.
 - Industrial processes where load balancing between motors is critical.
 
-## Repository Structure
+

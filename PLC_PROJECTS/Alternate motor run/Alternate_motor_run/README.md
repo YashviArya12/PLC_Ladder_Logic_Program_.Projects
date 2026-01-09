@@ -49,3 +49,6 @@ This project implements an **alternate motor running control system** using Siem
 - Industrial processes where load balancing between motors is critical.
 
 
+## Author
+Developed by **Yashvi**  
+Part of the PLC Ladder Logic Program Projects portfolio.
